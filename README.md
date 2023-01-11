@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Savaş Düzgün
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Android Development with Kotlin
+- 🌱 I’m currently learning Software Development
 
 
 
