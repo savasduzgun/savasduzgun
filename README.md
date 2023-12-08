@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Savaş Düzgün
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Software Development
+- 👀 My codes for entertainment purposes.
+- 🌱 I am a writer and my words are zeros and ones.
 
 
 
