@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Savaş Düzgün
-- 👀 My codes for entertainment purposes.
+- 👀
 - 🌱 I am a writer and my words are zeros and ones.
 
 
