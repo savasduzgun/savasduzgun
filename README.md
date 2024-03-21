@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Savaş Düzgün
-- 👀
+- 👀I'm senior student.
 - 🌱 I am a writer and my words are zeros and ones.
 
 
